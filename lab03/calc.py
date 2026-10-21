@@ -7,6 +7,8 @@ if c == '+' or c == '-' or c == '*' or c == '-':
         print(a + b)
     elif c == '-' or с == '-':
         print(a - b)
+    else:
+        print(a*b)
 
 
 
